@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+<!-- [![MoonPyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonPyxx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonPyxx)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 **MoonPyxx/MoonPyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
