@@ -1,7 +1,10 @@
 ### Hello! 👋
-<!-- [![MoonPyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonPyxx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I am Juanma (he/him) aka MoonPyx, a 19 years old guy computer science student from Spain and enthusiast about coding and music among others.
+Currently studying in Universidad of Granada
+
+[![MoonPyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonPyxx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonPyxx)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!--
