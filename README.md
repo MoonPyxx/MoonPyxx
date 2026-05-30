@@ -1,21 +1,9 @@
-### Hello! 👋
-I am Juanma (he/him), 21 yo CS student from Granada, Spain.
+### hi, i'm juanma
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonPyxx)](https://github.com/anuraghazra/github-readme-stats)
+cs student @ ugr · granada, spain  
+into intelligent systems, security, and the overlap between them
 
+**currently** finishing my degree + interning at gis4tech  
+**stack** python · pytorch · c++ · javascript · bash · sql
 
-
-<!--
-**MoonPyxx/MoonPyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonPyxx&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
